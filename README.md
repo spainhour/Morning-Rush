@@ -6,11 +6,11 @@ Upon waking up one morning before school, you are tasked to explore the house in
 -----------------------------------------------------------------------------------------
 Controls:
 
-Moving through the house
-'go north'
-'go south'
-'go east'
-'go west'
+Moving through the house:
+'go north', 
+'go south', 
+'go east', 
+'go west', 
 
 Picking up/Using items
 'take [item name]'
