@@ -4,19 +4,18 @@ The final project I made for my introductory Computer Science class, Morning Rus
 Upon waking up one morning before school, you are tasked to explore the house in search of your toothbrush so you can brush your teeth. Be careful though! You never know what could be waiting for you behind every turn.
 
 -----------------------------------------------------------------------------------------
-Controls:
+Commands:
 
-Moving through the house:
+Moving through the house: 
 'go north', 
 'go south', 
 'go east', 
-'go west', 
+'go west'
 
-Picking up/Using items
-'take [item name]'
+Picking up/Using items: 
+'take [item name]', 
 'use [item name]'
 
-Other
 Try using other commands as well!
 
 ------------------------------------------------------------------------------------------
