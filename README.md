@@ -20,6 +20,6 @@ Try using other commands as well!
 
 ------------------------------------------------------------------------------------------
 
-The program was developed with Python 2.7 (https://www.python.org/download/releases/2.7/).
-To run: Use the terminal to navigate to the directory Morning Rush is in, then type 'python2 MorningRush.py'
+The program was developed with Python 2.7 (https://www.python.org/download/releases/2.7/) No other version of Python is officially supported.
+To run: Use the terminal to navigate to the directory the MorningRush.py file is in, then type 'python2 MorningRush.py'
 
