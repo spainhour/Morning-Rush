@@ -1,5 +1,5 @@
 # Morning-Rush
-The final project I made for my introductory Computer Science class, Morning Rush, is a text-based adventure created with Python.
+The final project I made for my introductory Computer Science class, Morning Rush, is a text-based adventure created with Python 2.7.
 
 Upon waking up one morning before school, you are tasked to explore the house in search of your toothbrush so you can brush your teeth. Be careful though! You never know what could be waiting for you behind every turn.
 
